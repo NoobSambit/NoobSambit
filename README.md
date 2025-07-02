@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmp0dWJkdXVidGR5bHl3dzhweXVxOWw0cGw2cXVsZThydXJmczYydCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cSdSijzwrsliuI1hnC/giphy.gif](https://alphacoders.com/one-piece-gifs)" alt="Cyberpunk Night City Banner" width="100%" />
+  <img src="https://giffiles.alphacoders.com/221/221581.gif" alt="Cyberpunk Night City Banner" width="100%" />
 </p>
 
 <h1 align="center" style="color: #39FF14; font-size: 2.5rem;">
