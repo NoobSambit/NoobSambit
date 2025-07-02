@@ -1,5 +1,5 @@
 <div align="center" style="position: relative;">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmp0dWJkdXVidGR5bHl3dzhweXVxOWw0cGw2cXVsZThydXJmczYydCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cSdSijzwrsliuI1hnC/giphy.gif" alt="One Piece Banner" width="100%" />
+  <img src="https://tenor.com/view/luffy-luffy-gear-5-luffy-gear-5-white-gear-5-joyboy-gif-11074505862450082218?utm_source=share-button&utm_medium=Social&utm_content=pinterest" alt="One Piece Banner" width="100%" />
   <div style="position: absolute; top: 40%; left: 50%; transform: translate(-50%, -50%); text-align: center;">
     <h1 style="color: white; font-size: 2.5rem; text-shadow: 0 0 10px #000000;">
       ⚡ Welcome to the Digital Realm of <span style="color: #F72585">Sambit Pradhan</span> ⚡
