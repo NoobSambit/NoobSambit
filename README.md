@@ -1,4 +1,6 @@
-![Cyberpunk Banner](./A_cyberpunk-style_digital_illustration_banner_show.png)
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmp0dWJkdXVidGR5bHl3dzhweXVxOWw0cGw2cXVsZThydXJmczYydCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cSdSijzwrsliuI1hnC/giphy.gif" alt="Cyberpunk Night City Banner" width="100%" />
+</p>
 
 <h1 align="center" style="color: #39FF14; font-size: 2.5rem;">
   ⚡ Welcome to the Digital Realm of <span style="color: #FF61C6">Sambit Pradhan</span> ⚡
