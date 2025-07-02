@@ -37,8 +37,8 @@ const Sambit = {
 ## 🚀 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dummyUsername&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dummyUsername&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NoobSambit&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NoobSambit&theme=tokyonight" />
 </p>
 
 ---
@@ -46,7 +46,7 @@ const Sambit = {
 ## 📊 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dummyUsername&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoobSambit&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -73,7 +73,7 @@ const Sambit = {
 <p align="center">
   <a href="https://linkedin.com/in/dummy"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:sambitpradhan.dev2004@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/dummyUsername"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/NoobSambit"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://twitter.com/dummy"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="https://auth.geeksforgeeks.org/user/dummy"><img src="https://img.shields.io/badge/GfG-%2300C853.svg?&style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
 </p>
@@ -88,6 +88,6 @@ const Sambit = {
 ```
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dummyUsername&label=VISITORS&color=39FF14" alt="Visitor Badge" />
+  <img src="https://komarev.com/ghpvc/?username=NoobSambit&label=VISITORS&color=39FF14" alt="Visitor Badge" />
 </p>
 
