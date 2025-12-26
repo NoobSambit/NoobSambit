@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00c6ff,0072ff&height=280&section=header&text=Sambit%20Pradhan&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Engineer%20%7C%20AI%20Integration%20Specialist&descAlignY=55&descSize=20&fontColor=ffffff)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=7aa2f7,bb9af7&height=280&section=header&text=Sambit%20Pradhan&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Engineer%20%7C%20AI%20Integration%20Specialist&descAlignY=55&descSize=20&fontColor=ffffff)
 
 <a href="mailto:sambitpradhan.dev2004@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-333333?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/NoobSambit"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
@@ -11,7 +11,7 @@
 
 </div>
 
-### 🔵 Professional Profile
+## Professional Profile
 
 I am a Full-Stack Developer specializing in **Scalable MERN Architectures** and **Generative AI**. I treat code as a craft, focusing on clean design patterns and efficient data pipelines. Currently, I am merging **LangChain** workflows with enterprise web systems.
 
@@ -19,18 +19,18 @@ I am a Full-Stack Developer specializing in **Scalable MERN Architectures** and 
 
 ---
 
-### 🟣 Core Competencies
+## Core Competencies
 
 | **Domain** | **Focus Areas** |
 | :--- | :--- |
-| 🔷 **Backend Architecture** | Designing REST/GraphQL APIs, optimizing SQL/NoSQL schemas, and implementing secure Auth flows. |
-| ⚛️ **Frontend Engineering** | Building responsive interfaces with **React/Next.js**, utilizing complex state management. |
-| 🔮 **AI Integration** | Developing RAG pipelines with **Gemini & LangChain** and optimizing prompt context. |
-| ☁️ **DevOps & Cloud** | Containerization via **Docker**, CI/CD automation, and deploying on **AWS/Vercel**. |
+| **Backend Architecture** | Designing REST/GraphQL APIs, optimizing SQL/NoSQL schemas, and implementing secure Auth flows. |
+| **Frontend Engineering** | Building responsive interfaces with **React/Next.js**, utilizing complex state management. |
+| **AI Integration** | Developing RAG pipelines with **Gemini & LangChain** and optimizing prompt context. |
+| **DevOps & Cloud** | Containerization via **Docker**, CI/CD automation, and deploying on **AWS/Vercel**. |
 
 ---
 
-### 💻 Technical Stack
+## Technical Stack
 
 <div align="left">
 
@@ -46,32 +46,27 @@ I am a Full-Stack Developer specializing in **Scalable MERN Architectures** and 
 
 ---
 
-### 📊 Development Analytics
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="100%" height="2" />
+
+
+<h2 align="center">Development Analytics</h2>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=NoobSambit&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="160" alt="stats graph" />
-
-<img src="https://streak-stats.demolab.com?user=NoobSambit&theme=tokyonight&hide_border=true" height="160" alt="streak graph" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoobSambit&theme=tokyonight&hide_border=true&layout=compact" height="160" alt="languages graph" />
-
-<br/><br/>
-
-### ✍️ Random Dev Quote
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="random quote" />
-
-<br/>
-
-### 🔝 Top Contributed Repo
-<img src="https://github-contributor-stats.vercel.app/api?username=NoobSambit&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed" />
-
-<br/>
-
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=NoobSambit&icon=6&color=10" />
-</a>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NoobSambit&theme=tokyonight&hide_border=true" alt="streak" />
 
 </div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NoobSambit&theme=tokyonight" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NoobSambit&theme=tokyonight" height="180" />
+  <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NoobSambit&theme=tokyonight" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NoobSambit&theme=tokyonight" height="180" />
+</div>
+
+<br/>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="100%" height="2" />
