@@ -48,12 +48,13 @@ I am a Full-Stack Developer specializing in **Scalable MERN Architectures** and 
 ### 📊 Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NoobSambit&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoobSambit&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=NoobSambit&theme=tokyonight&hide_border=true" height="150" alt="Streak Stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoobSambit&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" height="150" alt="Top Languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=NoobSambit&icon=5&color=2" />
+  <img src="https://komarev.com/ghpvc/?username=NoobSambit&style=flat-square&color=blue" alt="Profile Counter" />
 </div>
