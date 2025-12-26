@@ -1,24 +1,59 @@
-# 💫 About Me:
-🧠 I'm currently working on<br>Full-stack MERN applications enhanced with AI using Gemini and LangChain — focusing on scalable architectures and real-time analytics.<br><br>🤝 I'm looking to collaborate on<br>Projects that merge AI with web development — anything around LLM-powered tools, dashboards, or interactive music/creative platforms.<br><br>🧩 I'm looking for help with<br>Optimizing AI workflows, LangChain pipelines, and improving backend scalability for high-traffic apps.<br><br>🌱 I'm currently learning<br>Advanced backend development, DevOps fundamentals (Docker, CI/CD), and Java + Python frameworks for enterprise systems.<br><br>💬 Ask me about<br>Full-stack development, API design, AI integration with Gemini/LLMs, and clean UI/UX for scalable apps.<br><br>⚡ Fun fact<br>I can debug faster with music on — and I believe coding + anime = ultimate creative combo ⚔️
+<div align="center">
 
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00c6ff,0072ff&height=280&section=header&text=Sambit%20Pradhan&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Engineer%20%7C%20AI%20Integration%20Specialist&descAlignY=55&descSize=20&fontColor=ffffff)
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/the_invincible_sambit) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/bangtan_syntax) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sambitpradhan.dev2004@gmail.com) 
+<a href="mailto:sambitpradhan.dev2004@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-333333?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/NoobSambit"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=NoobSambit&theme=neon&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=NoobSambit&theme=neon&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NoobSambit&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br/><br/>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=NoobSambit&limit=5&theme=neon&combine_all_yearly_contributions=true)
+### 🔵 Professional Profile
+
+I am a Full-Stack Developer specializing in **Scalable MERN Architectures** and **Generative AI**. I treat code as a craft, focusing on clean design patterns and efficient data pipelines. Currently, I am merging **LangChain** workflows with enterprise web systems to create intelligent, real-time dashboards.
+
+> **Current Focus:** Optimization of Zero-Shot Learning frameworks (RE-MIND) and High-Availability Backend Systems.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=NoobSambit&icon=6&color=10)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🟣 Core Competencies
+
+| **Domain** | **Focus Areas** |
+| :--- | :--- |
+| 🔷 **Backend Architecture** | Designing REST/GraphQL APIs, optimizing SQL/NoSQL schemas, and implementing secure Auth flows (OAuth/JWT). |
+| ⚛️ **Frontend Engineering** | Building responsive interfaces with **React/Next.js**, utilizing complex state management and performance hooks. |
+| 🔮 **AI Integration** | Developing RAG pipelines with **Gemini & LangChain**, optimizing prompt context, and managing vector databases. |
+| ☁️ **DevOps & Cloud** | Containerization via **Docker**, CI/CD automation, and deploying scalable instances on **AWS/Vercel**. |
+
+---
+
+### 💻 Technical Stack
+
+<div align="left">
+
+| **Category** | **Technologies** |
+| :--- | :--- |
+| **Languages** | ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) ![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white) |
+| **Backend** | ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white) |
+| **Database** | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=white) |
+| **Tools** | ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
+
+</div>
+
+---
+
+### 📊 Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NoobSambit&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoobSambit&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://visitcount.itsvg.in/api?id=NoobSambit&icon=5&color=2" />
+</div>
