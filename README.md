@@ -4,7 +4,8 @@
 
 <a href="mailto:sambitpradhan.dev2004@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-333333?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/NoobSambit"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://x.com/bangtan_syntax"><img src="https://img.shields.io/badge/X-@bangtan_syntax-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+<a href="https://instagram.com/the_invincible_sambit"><img src="https://img.shields.io/badge/Instagram-@the_invincible_sambit-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
 <br/><br/>
 
@@ -12,7 +13,7 @@
 
 ### 🔵 Professional Profile
 
-I am a Full-Stack Developer specializing in **Scalable MERN Architectures** and **Generative AI**. I treat code as a craft, focusing on clean design patterns and efficient data pipelines. Currently, I am merging **LangChain** workflows with enterprise web systems to create intelligent, real-time dashboards.
+I am a Full-Stack Developer specializing in **Scalable MERN Architectures** and **Generative AI**. I treat code as a craft, focusing on clean design patterns and efficient data pipelines. Currently, I am merging **LangChain** workflows with enterprise web systems.
 
 > **Current Focus:** Optimization of Zero-Shot Learning frameworks (RE-MIND) and High-Availability Backend Systems.
 
@@ -22,10 +23,10 @@ I am a Full-Stack Developer specializing in **Scalable MERN Architectures** and 
 
 | **Domain** | **Focus Areas** |
 | :--- | :--- |
-| 🔷 **Backend Architecture** | Designing REST/GraphQL APIs, optimizing SQL/NoSQL schemas, and implementing secure Auth flows (OAuth/JWT). |
-| ⚛️ **Frontend Engineering** | Building responsive interfaces with **React/Next.js**, utilizing complex state management and performance hooks. |
-| 🔮 **AI Integration** | Developing RAG pipelines with **Gemini & LangChain**, optimizing prompt context, and managing vector databases. |
-| ☁️ **DevOps & Cloud** | Containerization via **Docker**, CI/CD automation, and deploying scalable instances on **AWS/Vercel**. |
+| 🔷 **Backend Architecture** | Designing REST/GraphQL APIs, optimizing SQL/NoSQL schemas, and implementing secure Auth flows. |
+| ⚛️ **Frontend Engineering** | Building responsive interfaces with **React/Next.js**, utilizing complex state management. |
+| 🔮 **AI Integration** | Developing RAG pipelines with **Gemini & LangChain** and optimizing prompt context. |
+| ☁️ **DevOps & Cloud** | Containerization via **Docker**, CI/CD automation, and deploying on **AWS/Vercel**. |
 
 ---
 
@@ -45,16 +46,32 @@ I am a Full-Stack Developer specializing in **Scalable MERN Architectures** and 
 
 ---
 
-### 📊 Analytics
+### 📊 Development Analytics
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=NoobSambit&theme=tokyonight&hide_border=true" height="150" alt="Streak Stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoobSambit&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" height="150" alt="Top Languages" />
-</div>
+
+<img src="https://github-readme-stats.vercel.app/api?username=NoobSambit&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="160" alt="stats graph" />
+
+<img src="https://streak-stats.demolab.com?user=NoobSambit&theme=tokyonight&hide_border=true" height="160" alt="streak graph" />
 
 <br/>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=NoobSambit&style=flat-square&color=blue" alt="Profile Counter" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoobSambit&theme=tokyonight&hide_border=true&layout=compact" height="160" alt="languages graph" />
+
+<br/><br/>
+
+### ✍️ Random Dev Quote
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="random quote" />
+
+<br/>
+
+### 🔝 Top Contributed Repo
+<img src="https://github-contributor-stats.vercel.app/api?username=NoobSambit&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed" />
+
+<br/>
+
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=NoobSambit&icon=6&color=10" />
+</a>
+
 </div>
