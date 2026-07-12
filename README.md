@@ -70,3 +70,12 @@ I am a Full-Stack Developer specializing in **Scalable MERN Architectures** and 
 <br/>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="100%" height="2" />
+
+
+<!-- GITHUBWALLPAPER:START -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://githubwallpaper.com/api/card/evq9hg3tpvc0ygy1716yc2ee?theme=dark&v=478072cc8b71">
+  <source media="(prefers-color-scheme: light)" srcset="https://githubwallpaper.com/api/card/evq9hg3tpvc0ygy1716yc2ee?theme=light&v=478072cc8b71">
+  <img alt="GitHub profile card" src="https://githubwallpaper.com/api/card/evq9hg3tpvc0ygy1716yc2ee?theme=dark&v=478072cc8b71">
+</picture>
+<!-- GITHUBWALLPAPER:END -->
